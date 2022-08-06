@@ -1,6 +1,8 @@
 # FakeNewsDetection-24Hr-AI-challenge-
 Build AI fake news detection using machine learning
 
+![images](https://user-images.githubusercontent.com/67356946/183242686-35158930-b45d-4aa3-a404-460fdbaecc43.jpg)
+
 https://kandi.openweaver.com/collections/techforgood2022/spotting-fake-news
 
 **Kit Deployment Instructions**
